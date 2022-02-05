@@ -1,0 +1,16 @@
+{
+  "name": "tcd-hai-ngoai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "lowdb": "^3.0.0",
+    "pug": "^3.0.2"
+  }
+}
